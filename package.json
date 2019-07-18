@@ -1,0 +1,16 @@
+{
+  "name": "promise-queue-js",
+  "version": "1.0.0",
+  "description": "Utility to queue promise tasks.",
+  "main": "lib/promiseQueueJs.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test-unit-all": "npm run test -- unit"
+  },
+  "author": "isaacsennerholt <isaac.sennerholt@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {}
+}
